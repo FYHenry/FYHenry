@@ -11,7 +11,7 @@
 
 ## Boulot
 
-* Concepteur-développeur Web
+* **Concepteur-développeur Web**.
 
 ## Identité
 
@@ -19,8 +19,8 @@
 * Nom : Henry */ẽri/* ;
 * Âge : `${CHUTE_DU_MUR}` ;
 * Espèce : Gnou ;
-* Habitat : France, Occitanie */oksitani/*.
-* Clef publique : `0xBA7C98E24D38F2DE56F6CEA8C39FD67EBC82E5C9`
+* Habitat : France, Occitanie */oksitani/* ;
+* Clef publique : `0xBA7C98E24D38F2DE56F6CEA8C39FD67EBC82E5C9`.
 
 ## Système
 
