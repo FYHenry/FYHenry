@@ -47,7 +47,7 @@
 * Spring Boot ;
 * JDK 17 ;
 * ExpressJS ;
-* AngularJS ;
+* Angular ;
 * Bootstrap ;
 * NodeJS 18 ;
 * Numpy ;
