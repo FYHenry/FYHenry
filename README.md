@@ -60,10 +60,10 @@
 
 * Java ;
 * JavaScript ;
-* HTML/CSS ;
+* HTML5/CSS3 ;
 * UML ;
 * Merise ;
 * Bash ;
-* Python ;
-* C++ ;
+* Python3 ;
+* C++17 ;
 * C.
