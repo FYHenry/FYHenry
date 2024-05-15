@@ -9,6 +9,10 @@
 
 # FYHenry
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FYHenry&show=reviews&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FYHenry&langs_count=3&theme=dark)](https://github.com/FYHenry/github-readme-stats)
+
 ## Boulot
 
 * **Concepteur-développeur Web**.
