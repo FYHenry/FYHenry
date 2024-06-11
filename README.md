@@ -17,6 +17,10 @@
 
 * **Concepteur-développeur Web**.
 
+## Contribution
+
+* [Inote](https://github.com/orgs/InoteBackup2 "Organisation")
+
 ## Identité
 
 * Prénom : Frédéric */frederik/* ;
@@ -29,15 +33,15 @@
 ## Système
 
 * Boîtier : Punisher ;
-* MB : Gigabyte B450 Aorus Elite V2 ;
+* MB : Gigabyte B450 Aorus Elite v2 ;
 * CPU : AMD Ryzen 7 2700X ;
 * GPU : AMD Radeon RX 580 ;
 * RAM : Kingston 2x8 GiB
 * ROM : HDD Seagate 931 GB + SSD Force MP510 250 GB
 * WiFi : Broadcom BCM4360 ;
-* OS : Debian 11 GNU/Linux (Bullseye) ;
+* OS : Debian 12 GNU/Linux (Bookworm) ;
 * WM : Mutter (Wayland) ;
-* DE : GNOME 3 ;
+* DE : GNOME 43 ;
 * Shell : Bash 5.
 
 ## Loisirs
